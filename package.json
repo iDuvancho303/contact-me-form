@@ -1,15 +1,23 @@
 {
   "name": "contact-me-form",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "TAILWIND_MODE=watch craco start"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "tailwindscss": "^0.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iDuvancho303/contact-me-form.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iDuvancho303/contact-me-form/issues"
+  },
+  "homepage": "https://github.com/iDuvancho303/contact-me-form#readme",
+  "description": ""
 }
